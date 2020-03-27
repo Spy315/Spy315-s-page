@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+        body {
+            background-color: rgb(0, 0, 0);
+	    text-align: center;	
+        }
+        h1 {
+            color: rgb(150, 0, 0);
+            text-align: center;
+        }
+        .I_like_to_do {
+            color: rgb(200, 0, 0);
+            background-color: rgb(50, 0, 0);
+        }
+        .contents {
+            color: rgb(255, 150, 0);
+            background-color: rgb(100, 11, 0);
+        }
+        .pets {
+            color: rgb(100, 100, 100);
+            background-color: rgb(40, 40, 40);
+        }
+        a {
+            color: rgb(2000, 50, 0);
+        }
+        .websites {
+            color:rgb(100, 200, 100);
+            background-color: rgb(40, 140, 40);
+        }
+        .minecraft {
+            color: rgb(20, 255, 0);
+        }
+        .pokemon {
+            color: rgb(255, 255, 255);
+        }
+        #khanacademy {
+            color: rgb(150, 150, 255);
+        }
+        .books {
+            color: rgb(150, 100, 50);
+            background-color: rgb(100, 50, 0);
+            font-style: italic;
+        }
+        .games {
+            color: rgb(200, 200, 0);
+            background-color: rgb(100, 100, 0);
+        }
+        .foods {
+            color: rgb(255, 200, 145);
+            background-color: rgb(155, 100, 45);
+        }
+    </style>
+        <meta charset="utf-8">
+        <title>SpyRichie's page</title>
+    </head>
+    <body>
+<h1>/\/\/\/\/\/\/\/\/\/Spyrichie's Page\/\/\/\/\/\/\/\/\/\</h1>
+    <!--Contents-->
+<div class="contents">
+    <H2>Contents:</H2>
+    <ol>
+        <li><a href="#I_like_to_do">What I like to do</a></li>
+        <li><a href="#websites">My favorite websites</a></li>
+        <li><a href="#books">My favorite book series</a></li>
+        <li><a href="#games">My favorite games</a></li>
+        <li><a href="#foods">My favorite foods</a></li>
+        <li><a href="#pets">My pets</a></li>
+    </ol>
+</div>
+    <!--What I like to do -->
+<div class="I_like_to_do">
+    <h2 id="I_like_to_do">What I like to do:</h2>
+<ol>
+    <li>Play computer games.</li>
+    <li>Program.</li>
+    <li>Read.</li>
+    </ol>
+</div>
+    <!--favorite websites -->
+<div class="websites">
+    <h2 id="websites">My favorite websites:</h2>
+    <ol>
+        <li><a class="minecraft" href="https://www.minecraft.net/en-us/">Minecraft.net</a></li>
+        <li><a class="pokemon"href="https://www.pokemon.com/us/">pokemon.com</a></li>
+        <li><a id="khanacademy" href="https://www.khanacademy.org/">knanacademy.org</a></li>
+    </ol>
+</div>
+    <!--favorite books -->
+<div class="books">
+<h2 id="books">My favorite book series:</h2>
+    <ol>
+        <li>Fablehaven series - Brandon Mull</li>
+        <li>Dragonwatch series - Brandon Mull</li>
+        <li>Redwall series - Brian Jacques</li>
+        <li>GameKnight999 series - Mark Cheverton</li>
+        <li>The Candyshop War - Brandon Mull</li>
+    </ol>
+</div>
+    <!--favorite games -->
+<div class="games">
+    <h2 id="games" class="games">My favorite games:</h2>
+    <ol class="games">
+        <li class="minecraft">Minecraft (computer game)</li>
+        <li>Axis & Allies (board game)</li>
+        <li class="pokemon">Pokemon (video game)</li>
+        <li>Risk (board game)</li>
+        <li>Solarquest (board game similar to Monopoly)
+    </ol>
+</div>
+    <!--favorite foods -->
+<div class="foods">
+    <h2 id="foods">Favorite foods</h2>
+    <ol>
+        <li>Strawberry-Marble Ice-cream</li>
+        <li>Cheese Burgers</li>
+        <li>Salad</li>
+        <li>Tacos</li>
+        <li>Chili</li>
+    </ol>
+</div>
+    <!--pets-->
+<div class="pets">
+    <h2 id="pets">My pets:</h2>
+    <table>
+        <thead>
+            <tr>
+                <td>.Name.</td>
+                <td>.Species.
+                <td>.Color.</td>
+            </tr>
+        </thead>
+    </table>
+     <table class="pets">
+        <thead>
+            <tr>
+                <td>Trixie.</td>
+                <td>Cat.</td>
+                <td>Black & White.</td>
+            </tr>
+        </thead>
+    </table>
+    <table class="pets">
+        <thead>
+            <tr>
+                <td>Simon.</td>
+                <td>Cat.</td>
+                <td>Brownish orange, White.</td>
+            </tr>
+        </thead>
+    </table>
+    <table class="pets">
+        <thead>
+            <tr>
+                <td>Shadow.</td>
+                <td>Cat.</td>
+                <td>Black.</td>
+            </tr>
+        </thead>
+    </table>
+    </body>
+</html>
